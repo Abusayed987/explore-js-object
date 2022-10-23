@@ -14,4 +14,15 @@ player.level = 'high';
 player.bat = function batdetails() {
     console.log('bTaiing is wonderfull');
 }
-console.log(player);
+// console.log(player);
+
+// p:03
+class Person{
+    name= 'abul';
+    constructor(age){
+        this.age = age;
+    }
+}
+const person1 = new Person(19);
+console.log(person1);
+
